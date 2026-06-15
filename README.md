@@ -7,13 +7,6 @@ Replace:
 - ianbennedick10@gmail.com
 - https://your-portfolio-link.com
 -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20to%20My%20GitHub&fontAlign=50&fontAlignY=35&desc=Code%20%7C%20AI%20%7C%20Data%20Science%20%7C%20Research&descAlign=50&descAlignY=55&theme=tokyonight" />
-
-</div>
-
 <br>
 
 <div align="center">
