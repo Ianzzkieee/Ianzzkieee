@@ -37,8 +37,7 @@ I build practical systems using **Software Development**, **Data Science**, and 
 ## About Me
 
 ```txt
-Name        : Ian Bennedick L. Retuta
-Field       : Computer Science
+Field       : Computer Science Graduate
 Focus       : AI, Data Science, NLP, and Web Development
 Interest    : Building useful systems from research ideas
 Goal        : Create clean, practical, and user-centered technology
