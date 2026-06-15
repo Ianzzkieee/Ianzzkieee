@@ -18,7 +18,7 @@ Replace:
 
 <div align="center">
 
-# 👋 Hi, I'm **Ian Bennedick L. Retuta**
+# Hi, I'm **Ian Bennedick L. Retuta**
 
 ### Computer Science Graduate | AI & Data Science Enthusiast | Aspiring Software Developer
 
@@ -43,7 +43,7 @@ I build practical systems using **Software Development**, **Data Science**, and 
 
 ---
 
-## 🧭 About Me
+## About Me
 
 ```txt
 Name        : Ian Bennedick L. Retuta
@@ -59,13 +59,13 @@ I enjoy transforming research concepts into working prototypes, especially syste
 
 ---
 
-## 🚀 What I Work On
+## What I Work On
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 AI and NLP
+### AI and NLP
 - Lightweight transformer models
 - Retrieval-Augmented Generation
 - Chatbot development
@@ -75,7 +75,7 @@ I enjoy transforming research concepts into working prototypes, especially syste
 </td>
 <td width="50%">
 
-### 📊 Data Science
+### Data Science
 - Data preprocessing
 - Exploratory data analysis
 - Classification and clustering
@@ -87,7 +87,7 @@ I enjoy transforming research concepts into working prototypes, especially syste
 <tr>
 <td width="50%">
 
-### 💻 Software Development
+### Software Development
 - Web application development
 - Dashboard interfaces
 - Database-driven systems
@@ -97,7 +97,7 @@ I enjoy transforming research concepts into working prototypes, especially syste
 </td>
 <td width="50%">
 
-### 📚 Research Interests
+### Research Interests
 - Legal information systems
 - AI-assisted decision support
 - SME chatbot solutions
@@ -110,7 +110,7 @@ I enjoy transforming research concepts into working prototypes, especially syste
 
 ---
 
-## 🛠️ Tech Toolbox
+## Tech Toolbox
 
 <div align="center">
 
@@ -146,7 +146,7 @@ I enjoy transforming research concepts into working prototypes, especially syste
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -197,7 +197,7 @@ Dashboard and application interface projects focused on clean layouts, usability
 
 ---
 
-## 📈 GitHub Dashboard
+## GitHub Dashboard
 
 <div align="center">
 
@@ -212,7 +212,7 @@ Dashboard and application interface projects focused on clean layouts, usability
 
 ---
 
-## 🧩 Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
@@ -222,7 +222,7 @@ Dashboard and application interface projects focused on clean layouts, usability
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```txt
 Learning      : Advanced AI systems, RAG pipelines, and full-stack development
@@ -233,7 +233,7 @@ Open to       : Collaboration, internships, and entry-level software roles
 
 ---
 
-## 🤝 Let's Connect
+## Connect with Me
 
 <div align="center">
 
