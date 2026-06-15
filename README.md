@@ -24,13 +24,13 @@ I build practical systems using **Software Development**, **Data Science**, and 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ianzzkieee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ianzzkieee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianzzkieee)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ianbennedick10@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2EA44F?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=lanzzkieee&label=Visitors&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ianzzkieee&label=Visitors&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -194,13 +194,13 @@ Dashboard and application interface projects focused on clean layouts, usability
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lanzzkieee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ianzzkieee&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanzzkieee&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ianzzkieee&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=lanzzkieee&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Ianzzkieee&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -210,7 +210,7 @@ Dashboard and application interface projects focused on clean layouts, usability
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lanzzkieee&theme=tokyo-night&hide_border=true&radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ianzzkieee&theme=tokyo-night&hide_border=true&radius=8" />
 
 </div>
 
@@ -235,8 +235,8 @@ Thanks for visiting my GitHub profile.
 
 <br><br>
 
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ianzzkieee)
+[![Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ianbennedick10@gmail.com)
 
 </div>
 
