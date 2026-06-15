@@ -22,7 +22,7 @@ Replace:
 
 ### Computer Science Graduate | AI & Data Science Enthusiast | Aspiring Software Developer
 
-I build practical systems using **software development**, **data science**, and **AI-powered solutions**.
+I build practical systems using **Software Development**, **Data Science**, and **AI-powered solutions**.
 
 </div>
 
